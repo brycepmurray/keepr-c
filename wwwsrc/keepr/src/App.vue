@@ -31,8 +31,9 @@
         -moz-osx-font-smoothing: grayscale;
         text-align: center;
         color: #2c3e50;
-        background-image: url('http://www.myfreetextures.com/wp-content/uploads/2014/10/seamless-wood-texture-2.jpg');
+        background-image: url('http://www.terravivos.com/images/genome/vault.jpg');
         min-height: 100vh;
+        background-size: cover;
     }
     
     #no {

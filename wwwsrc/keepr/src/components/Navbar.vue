@@ -6,20 +6,14 @@
                 <a class="home" href="#">Home</a>
             </li>
             <li>
-                <a href="#cookbook">Cookbook</a>
+                <a href="#cookbook">Vaults</a>
             </li>
-            <li>
-                <a href="#shopping">Shopping List</a>
-            </li>
-
-
-
         </div>
         <div class="col-xs-4 text-left">
 
             <li>
                 <h3 v-if="user.name">Welcome, {{user.name}}</h3>
-                <h3 v-if="!user.name">Welcome, traveler</h3>
+                <h3 v-if="!user.name">Welcome, Guest</h3>
             </li>
         </div>
 
