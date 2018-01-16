@@ -1,3 +1,4 @@
+<template>
 <div>
     <ul>
         <div class="col-xs-5">
